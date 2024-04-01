@@ -1,0 +1,3 @@
+[submodule "cowsql-raft-sys/raft"]
+	path = cowsql-raft-sys/raft
+	url = https://github.com/cowsql/raft
